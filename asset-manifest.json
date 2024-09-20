@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Transaction-Crypto/static/css/main.4d7f1e28.css",
+    "main.js": "/Transaction-Crypto/static/js/main.b57774db.js",
+    "static/js/453.23e64e34.chunk.js": "/Transaction-Crypto/static/js/453.23e64e34.chunk.js",
+    "index.html": "/Transaction-Crypto/index.html",
+    "main.4d7f1e28.css.map": "/Transaction-Crypto/static/css/main.4d7f1e28.css.map",
+    "main.b57774db.js.map": "/Transaction-Crypto/static/js/main.b57774db.js.map",
+    "453.23e64e34.chunk.js.map": "/Transaction-Crypto/static/js/453.23e64e34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d7f1e28.css",
+    "static/js/main.b57774db.js"
+  ]
+}
